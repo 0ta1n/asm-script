@@ -1,2 +1,2 @@
 # asm-script
-python script for asm
+python script for asm().assembly
